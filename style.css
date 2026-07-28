@@ -509,7 +509,10 @@ textarea::placeholder {
 .section-divider {
   height: 2px;
   width: min(100%, 1080px);
-  margin: 2rem auto 0.2rem;
+  margin-bottom: 0.2rem;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
   background: linear-gradient(90deg, transparent, rgba(140, 91, 255, 0.85), transparent);
   box-shadow: 0 0 12px rgba(140, 91, 255, 0.2);
 }
