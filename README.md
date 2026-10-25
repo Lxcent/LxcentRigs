@@ -1,4 +1,4 @@
-# LxcentVR
+# LxcentRigs
 Small Website for Commissions for VRChat Finished Model Rigging!
 
 GitHub Instructions
